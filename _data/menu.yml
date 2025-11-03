@@ -6,5 +6,5 @@
   path: publications
 - name: People
   path: people
-- name: Work with us
-  path: work-with-us
+- name: Join the lab
+  path: join-the-lab

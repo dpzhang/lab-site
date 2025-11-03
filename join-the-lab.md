@@ -1,0 +1,72 @@
+---
+layout: default
+title: "Join the lab"
+---
+
+We are currently recruiting Ph.D. students to start in Fall 2026.
+
+### Prospective postdoctoral scholars
+
+We are always open to exploring postdoc opportunities for the right candidates. Contact Jessica for more details.
+
+### Prospective Ph.D. students
+
+Students who want to work with the lab can do so by applying to a Northwestern Ph.D. program:
+
+[Computer Science](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/phd/), or <br/>
+[Technology & Social Behavior](https://tsb.northwestern.edu/), a joint Ph.D. program in Computer Science and Communication Studies.
+
+<span class='section-subtitle'>What we look for</span>
+
+The most important thing we look for in applicants is a passion for doing rigorous work related to human interaction with statistical models. If you are drawn to methods, particularly statistical methods, and are interested in finding ways to formalize the human role in decision-making and prediction, you may be a good fit for our lab!
+
+We are open to various backgrounds. Previous lab members have had degrees in computer science, statistics, data science, psychology, and sociology, among others. Being comfortable with statistics and aspects of social science are both important. Check out the lab's work prior to applying so you can tell us concretely how your interests or experience intersect.
+
+### Undergraduates and Master's students
+
+We occasionally involve undergraduates and Master's students in our research. Students should be ready to commit at least 10 hours per week. Send us an email explaining what skills you can bring to the lab and describe your interests relative to our existing work&mdash;if we have opportunities that we think you'd be a good fit for we will get back to you.
+
+<!-- ### Connect With Us
+
+<p class="contacts">
+  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope" viewBox="0 0 16 16"><path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2Zm13 2.383-4.708 2.825L15 11.105V5.383Zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741ZM1 11.105l4.708-2.897L1 5.383v5.722Z"/></svg> <a href="mailto:jhullman@northwestern.edu">jhullman@northwestern.edu</a> <br/> -->
+  <!-- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16"><path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"/></svg> <a href="https://twitter.com/numucollective" target="_blank">@NUMUCollective</a> -->
+<!-- </p> -->
+
+<style>
+  h3 {
+    max-width: 500px;
+    margin: 2rem auto 0.5rem 0;
+    padding: 0;
+    font-weight: 600;
+    line-height: 100%;
+    font-size: 1rem;
+  }
+
+  p {
+    max-width: 500px;
+    font-size: 0.9rem;
+    font-weight: 400;
+    margin: 0 auto 0.5rem 0;
+    line-height: 130%;
+    color: #454545;
+  }
+  p.contacts svg {
+    width: 0.9rem;
+    height: 0.9rem;
+    vertical-align: text-bottom;
+  }
+  p.contacts svg {
+    color: #454545;
+  }
+  p.contacts svg.bi-twitter {
+    color: #1DA1F2;
+  }
+  .section-subtitle {
+  display: block;
+  font-style: italic;   /* adds emphasis without bold */
+  font-size: 1.05rem;  /* slightly larger than body text (0.9rem) */
+  font-weight: 400;    /* normal weight (not bold) */
+}
+
+</style>
