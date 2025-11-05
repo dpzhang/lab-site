@@ -5,22 +5,20 @@ title: "Join the lab"
 
 We are currently recruiting Ph.D. students to start in Fall 2026.
 
-### Prospective postdoctoral scholars
-
-We are always open to exploring postdoc opportunities for the right candidates. Contact Jessica for more details.
-
 ### Prospective Ph.D. students
 
 Students who want to work with the lab can do so by applying to a Northwestern Ph.D. program:
 
-[Computer Science](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/phd/), or <br/>
-[Technology & Social Behavior](https://tsb.northwestern.edu/), a joint Ph.D. program in Computer Science and Communication Studies.
-
-<span class='section-subtitle'>What we look for</span>
+[Computer Science](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/phd/) <br/>
+[Technology & Social Behavior](https://tsb.northwestern.edu/)
 
 The most important thing we look for in applicants is a passion for doing rigorous work related to human interaction with statistical models. If you are drawn to methods, particularly statistical methods, and are interested in finding ways to formalize the human role in decision-making and prediction, you may be a good fit for our lab!
 
 We are open to various backgrounds. Previous lab members have had degrees in computer science, statistics, data science, psychology, and sociology, among others. Being comfortable with statistics and aspects of social science are both important. Check out the lab's work prior to applying so you can tell us concretely how your interests or experience intersect.
+
+### Prospective postdoctoral scholars
+
+We are always open to exploring postdoc opportunities for the right candidates. Contact Jessica for more details.
 
 ### Undergraduates and Master's students
 
@@ -45,9 +43,8 @@ We occasionally involve undergraduates and Master's students in our research. St
 
   p {
     max-width: 500px;
-    font-size: 0.9rem;
     font-weight: 400;
-    margin: 0 auto 0.5rem 0;
+    margin: 0 auto 1rem 0;
     line-height: 130%;
     color: #454545;
   }
@@ -62,11 +59,5 @@ We occasionally involve undergraduates and Master's students in our research. St
   p.contacts svg.bi-twitter {
     color: #1DA1F2;
   }
-  .section-subtitle {
-  display: block;
-  font-style: italic;   /* adds emphasis without bold */
-  font-size: 1.05rem;  /* slightly larger than body text (0.9rem) */
-  font-weight: 400;    /* normal weight (not bold) */
-}
 
 </style>
