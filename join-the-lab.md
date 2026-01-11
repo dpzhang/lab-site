@@ -3,7 +3,7 @@ layout: default
 title: "Join the lab"
 ---
 
-We are currently recruiting Ph.D. students to start in Fall 2026.
+We are currently recruiting Ph.D. students.
 
 ### Prospective Ph.D. students
 
@@ -12,9 +12,9 @@ Students who want to work with the lab can do so by applying to a Northwestern P
 [Computer Science](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/phd/) <br/>
 [Technology & Social Behavior](https://tsb.northwestern.edu/)
 
-The most important thing we look for in applicants is a passion for doing rigorous work related to human interaction with statistical models. If you are drawn to methods, particularly statistical methods, and are interested in finding ways to formalize the human role in decision-making and prediction, you may be a good fit for our lab!
+The most important thing we look for in applicants is a passion for doing rigorous work at the intersection of AI and human cognition and behavior. If you are drawn to statistical methods and are interested in formalizing human-machine communication and interaction, you may be a good fit for our lab!
 
-We are open to various backgrounds. Previous lab members have had degrees in computer science, statistics, data science, psychology, and sociology, among others. Being comfortable with statistics and aspects of social science are both important. Check out the lab's work prior to applying so you can tell us concretely how your interests or experience intersect.
+We are open to various backgrounds. Previous lab members have had degrees in computer science, statistics, data science, psychology, and sociology, among others.
 
 ### Prospective postdoctoral scholars
 
